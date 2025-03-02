@@ -1,16 +1,28 @@
-## Hi there 👋
+name: WakaTime Stats
 
-<!--
-**raffinauvall/raffinauvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
-Here are some ideas to get you started:
+jobs:
+  update-wakatime:
+    runs-on: ubuntu-latest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update WakaTime Readme Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TOTAL: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"

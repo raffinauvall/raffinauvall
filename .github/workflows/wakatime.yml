@@ -2,8 +2,8 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Update tiap hari
-  workflow_dispatch:  # Bisa dijalankan manual
+    - cron: '0 0 * * *'  # Jalan tiap hari jam 00:00 UTC
+  workflow_dispatch:
 
 jobs:
   update-wakatime:
@@ -17,7 +17,7 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TOTAL: "True"
+          SHOW_TOTAL_CODE_TIME: "True"  # Ini gantiin SHOW_TOTAL
           SHOW_TIMEZONE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"

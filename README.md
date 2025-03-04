@@ -5,6 +5,8 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Bangkok
+
 💬 Programming Languages: 
 JavaScript               4 hrs 59 mins       ███████████████████████░░   90.06 % 
 CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
@@ -14,4 +16,5 @@ PHP                      3 mins              ░░░░░░░░░░░�
 ```
 
 
+ Last Updated on 04/03/2025 16:27:11 UTC
 <!--END_SECTION:waka-->

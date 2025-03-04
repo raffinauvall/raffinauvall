@@ -33,6 +33,5 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_DEBUG_LOGGING: "False"
-          SHOW_TIMEZONE: "False"
           SHOW_TOTAL: "False"
-          SHOW_ALL_TIME: "True"  # ✅ Tambahin ini buat All Time
+          SHOW_ALL_TIME: "True"  # ✅ Tampilkan statistik All Time

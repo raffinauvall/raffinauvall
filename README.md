@@ -10,3 +10,6 @@ JavaScript                 40 hrs 24 mins        ██░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<p align="center">
+  <i>"Making mistakes is better than faking perfection"</i><br>
+</p>

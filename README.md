@@ -1,4 +1,18 @@
-Coding Stats
+# Raffi Nauval Taqy
+
+Software engineer based in Tangerang Selatan, Indonesia.
+
+I work mostly with TypeScript, PHP, and Go, building web applications and backend services.
+
+## Selected work
+
+- [noxwatch](https://github.com/raffinauvall/noxwatch) · Server monitoring and management in Go.
+- [moto-track](https://github.com/raffinauvall/moto-track) · A mobile app for tracking motorcycle components.
+
+## Coding activity
+
+All-time activity tracked with WakaTime.
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -10,6 +24,5 @@ Java                       55 hrs 30 mins        ██▒░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<p align="center">
-  <i>"Making mistakes is better than faking perfection"</i><br>
-</p>
+
+> Making mistakes is better than faking perfection.

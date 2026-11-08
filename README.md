@@ -1,13 +1,32 @@
-# Raffi Nauval Taqy
+<h1 align="center">Raffi Nauval Taqy</h1>
 
-Software engineer based in Tangerang Selatan, Indonesia.
+<p align="center">Software engineer · Tangerang Selatan, Indonesia</p>
 
-I work mostly with TypeScript, PHP, and Go, building web applications and backend services.
+<p align="center">
+  I build web applications and backend services, mostly with TypeScript, PHP, and Go.
+</p>
 
-## Selected work
+<p align="center">
+  <a href="https://www.linkedin.com/in/raffinauvaltaqy">LinkedIn</a>
+</p>
 
-- [noxwatch](https://github.com/raffinauvall/noxwatch) · Server monitoring and management in Go.
-- [moto-track](https://github.com/raffinauvall/moto-track) · A mobile app for tracking motorcycle components.
+<br>
+
+## Languages
+
+<p align="center">
+  <picture><img src="./assets/icons/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript"></picture>
+  &nbsp;
+  <picture><img src="./assets/icons/php-original.svg" width="36" height="36" alt="PHP" title="PHP"></picture>
+  &nbsp;
+  <picture><img src="./assets/icons/go-original-wordmark.svg" width="36" height="36" alt="Go" title="Go"></picture>
+  &nbsp;
+  <picture><img src="./assets/icons/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript"></picture>
+  &nbsp;
+  <picture><img src="./assets/icons/java-original.svg" width="36" height="36" alt="Java" title="Java"></picture>
+</p>
+
+<br>
 
 ## Coding activity
 
@@ -25,4 +44,4 @@ Java                       55 hrs 30 mins        ██▒░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-> Making mistakes is better than faking perfection.
+<p align="center"><sub><em>Making mistakes is better than faking perfection.</em></sub></p>

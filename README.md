@@ -1,5 +1,5 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-mobile.svg">
+  <source media="(max-width: 1000px)" srcset="./assets/profile-mobile.svg">
   <img src="./assets/profile.svg" width="1280" alt="Raffi Nauval Taqy. Software engineer in Tangerang Selatan, Indonesia. TypeScript, PHP, and Go.">
 </picture>
 

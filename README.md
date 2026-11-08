@@ -1,17 +1,23 @@
-# Raffi Nauval Taqy
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-mobile.svg">
+  <img src="./assets/profile.svg" width="1280" alt="Raffi Nauval Taqy. Software engineer in Tangerang Selatan, Indonesia. TypeScript, PHP, and Go.">
+</picture>
 
-Software engineer based in Tangerang Selatan, Indonesia.
+<br>
 
-I work mostly with TypeScript, PHP, and Go, building web applications and backend services.
+I build web applications and backend services. Here are two projects I've been working on.
 
 ## Selected work
 
-- [noxwatch](https://github.com/raffinauvall/noxwatch) · Server monitoring and management in Go.
-- [moto-track](https://github.com/raffinauvall/moto-track) · A mobile app for tracking motorcycle components.
+<p>
+  <a href="https://github.com/raffinauvall/noxwatch"><img src="./assets/noxwatch.svg" width="400" height="280" alt="NoxWatch: Linux server monitoring, metrics, live updates, and alerts. Built with Go, Next.js, and PostgreSQL."></a>
+  <a href="https://github.com/raffinauvall/moto-track"><img src="./assets/moto-track.svg" width="400" height="280" alt="MotoTrack: motorcycle component wear, GPS ride tracking, and service history. Built with React Native, Expo, and Supabase."></a>
+</p>
 
-## Coding activity
+<br>
 
-All-time activity tracked with WakaTime.
+<details>
+<summary><strong>Coding activity</strong> · All-time WakaTime stats</summary>
 
 <!--START_SECTION:waka-->
 
@@ -25,4 +31,8 @@ Java                       55 hrs 30 mins        ██▒░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-> Making mistakes is better than faking perfection.
+</details>
+
+<br>
+
+<sub><em>Making mistakes is better than faking perfection.</em></sub>

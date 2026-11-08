@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="350" viewBox="0 0 500 350" role="img" aria-labelledby="title desc">
+  <title id="title">NoxWatch</title>
+  <desc id="desc">Linux server monitoring, metrics, live updates, and alerts. Built with Go, Next.js, and PostgreSQL.</desc>
+  <rect width="500" height="350" fill="#252e2a"/>
+  <g fill="none" stroke="#bccbbb" stroke-width="1.5">
+    <rect x="358" y="30" width="112" height="22" rx="2"/>
+    <rect x="358" y="60" width="112" height="22" rx="2"/>
+    <rect x="358" y="90" width="112" height="22" rx="2"/>
+    <path d="M372 41H443M372 71H443M372 101H443M345 41H332V101H345"/>
+  </g>
+  <g fill="#bccbbb">
+    <circle cx="458" cy="41" r="2"/>
+    <circle cx="458" cy="71" r="2"/>
+    <circle cx="458" cy="101" r="2"/>
+  </g>
+  <text x="28" y="79" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="-1.5" fill="#f2eee6">NoxWatch</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#f2eee6">
+    <text x="28" y="166">Linux server monitoring,</text>
+    <text x="28" y="203">from agent to dashboard.</text>
+    <text x="28" y="240">Metrics, live updates, and alerts.</text>
+  </g>
+  <text x="28" y="315" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#bccbbb">Go / Next.js / PostgreSQL</text>
+</svg>

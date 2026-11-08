@@ -1,6 +1,6 @@
 <h1 align="center">Raffi Nauval Taqy</h1>
 
-<p align="center">Software engineer · Tangerang Selatan, Indonesia</p>
+<p align="center">Software Engineer</p>
 
 <p>
   I'm a software engineer with six years of programming experience, working across web, mobile, and backend development. I'm also studying Informatics at Universitas Gunadarma.

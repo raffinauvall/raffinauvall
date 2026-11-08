@@ -14,13 +14,9 @@
   Alongside development, I tutor programming and help students understand technical concepts through practical examples and hands-on guidance. Teaching gives me another way to work through problems and share what I've learned from building software.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raffinauvaltaqy">LinkedIn</a>
-</p>
 
 <br>
 
-## Languages
 
 <p align="center">
   <picture><img src="./assets/icons/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript"></picture>

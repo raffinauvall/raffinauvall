@@ -3,15 +3,15 @@
 <p align="center">Software engineer · Tangerang Selatan, Indonesia</p>
 
 <p>
-  I'm a software engineer with six years of programming experience, working across web, mobile, and backend development. I'm also studying Informatics at Universitas Gunadarma, balancing my studies with engineering work and teaching.
+  I'm a software engineer with six years of programming experience, working across web, mobile, and backend development. I'm also studying Informatics at Universitas Gunadarma.
 </p>
 
 <p>
-  I work part-time as a Software Engineer and IT Support at PT Prosper Witta Sejahtera, developing and maintaining the company's platform and supporting its day-to-day technology needs. Alongside that, I'm a Junior Developer Intern at PT Serba Mulia Group, working on internal APIs, data pipelines, dashboards, approval workflows, and system integrations. My work also includes deployment and application security testing.
+  My work covers APIs, data pipelines, dashboards, approval workflows, and system integrations. I build with TypeScript, PHP, Go, Java, and Dart, using frameworks such as Next.js, Laravel, and Flutter. I also work on deployment, application security testing, and troubleshooting the systems people use day to day.
 </p>
 
 <p>
-  Outside development, I'm a Course Assistant and Tutor at LePKom Gunadarma. I help students work through programming concepts with practical examples and hands-on guidance. Teaching is a regular part of what I do, alongside building software and helping people troubleshoot the systems they use.
+  Alongside development, I tutor programming and help students understand technical concepts through practical examples and hands-on guidance. Teaching gives me another way to work through problems and share what I've learned from building software.
 </p>
 
 <p align="center">
